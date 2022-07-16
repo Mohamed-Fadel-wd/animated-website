@@ -3,3 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+@media screen and (min-width: 600px) {
+}
+
+h1 {
+  font-size: 13rem !important;
+}
